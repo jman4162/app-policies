@@ -1,8 +1,8 @@
-# Privacy Policy for Dialed
+# Privacy Policy for BeanBench
 
-**Last updated: January 19, 2026**
+**Last updated: January 20, 2026**
 
-Dialed ("we", "our", or "us") is a specialty coffee logging app. This Privacy Policy explains how we collect, use, and protect your information.
+BeanBench ("we", "our", or "us") is a specialty coffee logging and discovery app. This Privacy Policy explains how we collect, use, and protect your information.
 
 ## Summary
 
@@ -16,7 +16,7 @@ Dialed ("we", "our", or "us") is a specialty coffee logging app. This Privacy Po
 
 ### 1.1 Local Data (No Account Required)
 
-When you use Dialed without an account, all your data is stored locally on your device:
+When you use BeanBench without an account, all your data is stored locally on your device:
 
 - Brew logs, coffee beans, roasters, and grinder settings
 - App preferences and settings
@@ -53,7 +53,7 @@ When using online features, we may collect:
 
 We use your information to:
 
-- Provide and improve the Dialed app
+- Provide and improve the BeanBench app
 - Sync your data across your devices (if enabled)
 - Display community ratings and reviews (if you participate)
 - Provide personalized coffee recommendations (if enabled)
@@ -97,7 +97,7 @@ We may use privacy-focused analytics services to understand how users interact w
 
 We may earn commissions when you purchase coffee or equipment through links in the app. When you click an affiliate link:
 
-- The retailer may know you came from Dialed
+- The retailer may know you came from BeanBench
 - We may receive information about completed purchases (not your personal details)
 - We do not share your personal information with affiliate partners
 
@@ -138,7 +138,7 @@ Depending on your location, you may have the right to:
 - **Opt out** of personalized recommendations
 - **Withdraw consent** for optional data processing
 
-To exercise these rights, contact us at [your-email@example.com].
+To exercise these rights, contact us at jah70@vt.edu.
 
 ### For California Residents (CCPA)
 
@@ -155,7 +155,7 @@ Our legal basis for processing is:
 
 ## 9. Children's Privacy
 
-Dialed is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us.
+BeanBench is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us.
 
 ---
 
@@ -173,7 +173,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy:
 
-- **Email**: [your-email@example.com]
+- **Email**: jah70@vt.edu
 - **GitHub**: [github.com/jman4162](https://github.com/jman4162)
 
 ---

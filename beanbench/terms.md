@@ -1,24 +1,25 @@
-# Terms of Service for Dialed
+# Terms of Service for BeanBench
 
-**Last updated: January 19, 2026**
+**Last updated: January 20, 2026**
 
-By using Dialed ("the App"), you agree to these Terms of Service.
+By using BeanBench ("the App"), you agree to these Terms of Service.
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Dialed, you agree to be bound by these Terms. If you do not agree, do not use the App.
+By downloading, installing, or using BeanBench, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ---
 
 ## 2. Description of Service
 
-Dialed is a coffee brewing companion app that allows you to:
+BeanBench is a coffee logging and discovery app that allows you to:
 
 - Log and track your coffee brews
 - Save coffee beans, roasters, and grinder settings
 - Use guided brew timers and recipes
+- Rate coffees and drinks at local coffee shops
 - Optionally participate in community features (ratings, reviews)
 - Optionally receive personalized recommendations
 
@@ -28,7 +29,7 @@ Dialed is a coffee brewing companion app that allows you to:
 
 ### 3.1 Local Use
 
-You can use Dialed's core features without creating an account. Your data is stored locally on your device.
+You can use BeanBench's core features without creating an account. Your data is stored locally on your device.
 
 ### 3.2 Account Registration
 
@@ -135,10 +136,10 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 ## 12. Governing Law
 
-These Terms are governed by the laws of [Your State/Country], without regard to conflict of law principles.
+These Terms are governed by the laws of Washington State, USA, without regard to conflict of law principles.
 
 ---
 
 ## 13. Contact
 
-Questions about these Terms? Contact us at [your-email@example.com].
+Questions about these Terms? Contact us at jah70@vt.edu.

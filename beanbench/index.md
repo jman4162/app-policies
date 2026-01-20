@@ -1,6 +1,6 @@
-# Dialed - Legal
+# BeanBench - Legal
 
-Dialed is a specialty coffee logging app for iOS.
+BeanBench is a specialty coffee logging and discovery app for iOS.
 
 ## Documents
 
@@ -10,4 +10,4 @@ Dialed is a specialty coffee logging app for iOS.
 ## Links
 
 - [App Store](#) *(Coming Soon)*
-- [Support](mailto:your-email@example.com)
+- [Support](mailto:jah70@vt.edu)
